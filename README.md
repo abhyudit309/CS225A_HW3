@@ -1,5 +1,5 @@
 # CS225A: HW3
-Homework 3 code for Experimental Robotics (CS 225A)
+Homework 3 code for Experimental Robotics (CS 225A).
 
 * The questions of the homework are in [`hw3.pdf`](hw3.pdf)
 * The main code is in [`hw3.cpp`](hw3.cpp)
